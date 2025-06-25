@@ -1,5 +1,3 @@
-# AI_travel_Assistant
-
 #  AI Travel Assistant 
 
 An intelligent travel planner built with LangChain, Groq LLaMA 3, and Streamlit.
