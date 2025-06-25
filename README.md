@@ -32,5 +32,6 @@ An intelligent travel planner built with LangChain, Groq LLaMA 3, and Streamlit.
 
 3. Create `.env` file with keys:
 ```env
-GROQ_API_KEY=your_groq_key
-RAPIDAPI_KEY=your_rapidapi_key
+OPENWEATHER_API_KEY=OPENWEATHER_API_KEY
+GROQ_API_KEY=GROQ_API_KEY
+UNSPLASH_ACCESS_KEY =UNSPLASH_ACCESS_KEY 
