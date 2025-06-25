@@ -1,0 +1,614 @@
+[
+  {
+    "name": "Bali",
+    "type": "beach",
+    "country": "Indonesia",
+    "tags": ["beach", "relax", "culture", "nature"]
+  },
+  {
+    "name": "Swiss Alps",
+    "type": "mountain",
+    "country": "Switzerland",
+    "tags": ["mountains", "ski", "adventure", "nature"]
+  },
+  {
+    "name": "Paris",
+    "type": "city",
+    "country": "France",
+    "tags": ["romance", "culture", "art", "history"]
+  },
+  {
+    "name": "Tokyo",
+    "type": "city",
+    "country": "Japan",
+    "tags": ["technology", "culture", "food", "cityscape"]
+  },
+  {
+    "name": "Banff National Park",
+    "type": "nature",
+    "country": "Canada",
+    "tags": ["mountains", "hiking", "lakes", "wildlife"]
+  },
+  {
+    "name": "Maui",
+    "type": "beach",
+    "country": "USA",
+    "tags": ["beach", "surfing", "volcanoes", "relax"]
+  },
+  {
+    "name": "Cape Town",
+    "type": "city",
+    "country": "South Africa",
+    "tags": ["beach", "nature", "hiking", "culture"]
+  },
+  {
+    "name": "Rome",
+    "type": "city",
+    "country": "Italy",
+    "tags": ["history", "culture", "art", "food"]
+  },
+  {
+    "name": "Phuket",
+    "type": "beach",
+    "country": "Thailand",
+    "tags": ["beach", "nightlife", "diving", "islands"]
+  },
+  {
+    "name": "Cusco",
+    "type": "city",
+    "country": "Peru",
+    "tags": ["history", "hiking", "culture", "mountains"]
+  },
+  {
+    "name": "New York City",
+    "type": "city",
+    "country": "USA",
+    "tags": ["city", "entertainment", "museums", "food"]
+  },
+  {
+    "name": "Santorini",
+    "type": "beach",
+    "country": "Greece",
+    "tags": ["romance", "beach", "sunsets", "architecture"]
+  },
+  {
+    "name": "Kyoto",
+    "type": "city",
+    "country": "Japan",
+    "tags": ["culture", "temples", "zen", "history"]
+  },
+  {
+    "name": "Queenstown",
+    "type": "mountain",
+    "country": "New Zealand",
+    "tags": ["adventure", "ski", "hiking", "nature"]
+  },
+  {
+    "name": "Istanbul",
+    "type": "city",
+    "country": "Turkey",
+    "tags": ["culture", "history", "markets", "food"]
+  },
+  {
+    "name": "Reykjavik",
+    "type": "city",
+    "country": "Iceland",
+    "tags": ["northern lights", "nature", "volcanoes", "adventure"]
+  },
+  {
+    "name": "Barcelona",
+    "type": "city",
+    "country": "Spain",
+    "tags": ["beach", "art", "architecture", "food"]
+  },
+  {
+    "name": "Dubai",
+    "type": "city",
+    "country": "UAE",
+    "tags": ["luxury", "shopping", "desert", "modern"]
+  },
+  {
+    "name": "Petra",
+    "type": "history",
+    "country": "Jordan",
+    "tags": ["history", "desert", "architecture", "adventure"]
+  },
+  {
+    "name": "Serengeti",
+    "type": "nature",
+    "country": "Tanzania",
+    "tags": ["safari", "wildlife", "nature", "adventure"]
+  },
+  {
+    "name": "Siem Reap",
+    "type": "culture",
+    "country": "Cambodia",
+    "tags": ["temples", "culture", "history", "adventure"]
+  },
+  {
+    "name": "Machu Picchu",
+    "type": "history",
+    "country": "Peru",
+    "tags": ["history", "hiking", "adventure", "mountains"]
+  },
+  {
+    "name": "Venice",
+    "type": "city",
+    "country": "Italy",
+    "tags": ["romance", "boats", "architecture", "culture"]
+  },
+  {
+    "name": "Amsterdam",
+    "type": "city",
+    "country": "Netherlands",
+    "tags": ["cycling", "canals", "museums", "city"]
+  },
+  {
+    "name": "Zanzibar",
+    "type": "beach",
+    "country": "Tanzania",
+    "tags": ["beach", "islands", "culture", "relax"]
+  },
+  {
+    "name": "Havana",
+    "type": "city",
+    "country": "Cuba",
+    "tags": ["culture", "music", "history", "beach"]
+  },
+  {
+    "name": "Antarctica",
+    "type": "nature",
+    "country": "N/A",
+    "tags": ["ice", "expedition", "wildlife", "adventure"]
+  },
+  {
+    "name": "Great Barrier Reef",
+    "type": "nature",
+    "country": "Australia",
+    "tags": ["diving", "marine", "beach", "adventure"]
+  },
+  {
+    "name": "Yellowstone",
+    "type": "nature",
+    "country": "USA",
+    "tags": ["geysers", "wildlife", "camping", "adventure"]
+  },
+  {
+    "name": "Prague",
+    "type": "city",
+    "country": "Czech Republic",
+    "tags": ["architecture", "history", "culture", "romance"]
+  },
+  {
+    "name": "London",
+    "type": "city",
+    "country": "UK",
+    "tags": ["history", "culture", "museums", "royalty"]
+  },
+  {
+    "name": "Sydney",
+    "type": "city",
+    "country": "Australia",
+    "tags": ["beach", "harbor", "opera", "cityscape"]
+  },
+  {
+    "name": "Rio de Janeiro",
+    "type": "city",
+    "country": "Brazil",
+    "tags": ["beach", "carnival", "mountains", "culture"]
+  },
+  {
+    "name": "Maldives",
+    "type": "beach",
+    "country": "Maldives",
+    "tags": ["luxury", "beach", "diving", "relax"]
+  },
+  {
+    "name": "Taj Mahal",
+    "type": "history",
+    "country": "India",
+    "tags": ["history", "architecture", "romance", "culture"]
+  },
+  {
+    "name": "Angkor Wat",
+    "type": "history",
+    "country": "Cambodia",
+    "tags": ["temples", "history", "culture", "architecture"]
+  },
+  {
+    "name": "Marrakech",
+    "type": "city",
+    "country": "Morocco",
+    "tags": ["culture", "markets", "desert", "architecture"]
+  },
+  {
+    "name": "Edinburgh",
+    "type": "city",
+    "country": "Scotland",
+    "tags": ["history", "castle", "culture", "highland"]
+  },
+  {
+    "name": "Singapore",
+    "type": "city",
+    "country": "Singapore",
+    "tags": ["modern", "food", "shopping", "gardens"]
+  },
+  {
+    "name": "Goa",
+    "type": "beach",
+    "country": "India",
+    "tags": ["beach", "relax", "nightlife", "culture"]
+  },
+  {
+    "name": "Himalayas",
+    "type": "mountain",
+    "country": "Nepal",
+    "tags": ["trekking", "mountains", "adventure", "spiritual"]
+  },
+  {
+    "name": "Cairo",
+    "type": "city",
+    "country": "Egypt",
+    "tags": ["pyramids", "history", "desert", "culture"]
+  },
+  {
+    "name": "Bora Bora",
+    "type": "beach",
+    "country": "French Polynesia",
+    "tags": ["luxury", "beach", "lagoon", "romance"]
+  },
+  {
+    "name": "Patagonia",
+    "type": "nature",
+    "country": "Argentina/Chile",
+    "tags": ["glaciers", "hiking", "wilderness", "adventure"]
+  },
+  {
+    "name": "Morocco Sahara",
+    "type": "desert",
+    "country": "Morocco",
+    "tags": ["desert", "camel", "adventure", "culture"]
+  },
+  {
+    "name": "Seychelles",
+    "type": "beach",
+    "country": "Seychelles",
+    "tags": ["luxury", "beach", "nature", "relax"]
+  },
+  {
+    "name": "Vienna",
+    "type": "city",
+    "country": "Austria",
+    "tags": ["music", "culture", "architecture", "history"]
+  },
+  {
+    "name": "Bagan",
+    "type": "history",
+    "country": "Myanmar",
+    "tags": ["temples", "history", "sunrise", "culture"]
+  },
+  {
+    "name": "Kruger National Park",
+    "type": "nature",
+    "country": "South Africa",
+    "tags": ["safari", "wildlife", "big five", "adventure"]
+  },
+  {
+    "name": "Galápagos Islands",
+    "type": "nature",
+    "country": "Ecuador",
+    "tags": ["wildlife", "evolution", "nature", "adventure"]
+  },
+  {
+    "name": "Rajasthan",
+    "type": "culture",
+    "country": "India",
+    "tags": ["palaces", "desert", "culture", "history"]
+  },
+  {
+    "name": "Niagara Falls",
+    "type": "nature",
+    "country": "USA/Canada",
+    "tags": ["waterfalls", "nature", "romance", "adventure"]
+  },
+  {
+    "name": "Lhasa",
+    "type": "culture",
+    "country": "Tibet/China",
+    "tags": ["spiritual", "mountains", "culture", "temples"]
+  },
+  {
+    "name": "Easter Island",
+    "type": "history",
+    "country": "Chile",
+    "tags": ["mystery", "statues", "history", "remote"]
+  },
+  {
+    "name": "Iguazu Falls",
+    "type": "nature",
+    "country": "Argentina/Brazil",
+    "tags": ["waterfalls", "rainforest", "nature", "adventure"]
+  },
+  {
+    "name": "Kerala",
+    "type": "nature",
+    "country": "India",
+    "tags": ["backwaters", "ayurveda", "nature", "relax"]
+  },
+  {
+    "name": "Budapest",
+    "type": "city",
+    "country": "Hungary",
+    "tags": ["thermal baths", "architecture", "history", "culture"]
+  },
+  {
+    "name": "Amalfi Coast",
+    "type": "beach",
+    "country": "Italy",
+    "tags": ["romance", "coast", "mountains", "luxury"]
+  },
+  {
+    "name": "Ha Long Bay",
+    "type": "nature",
+    "country": "Vietnam",
+    "tags": ["islands", "boats", "limestone", "adventure"]
+  },
+  {
+    "name": "Ladakh",
+    "type": "mountain",
+    "country": "India",
+    "tags": ["mountains", "desert", "adventure", "spiritual"]
+  },
+  {
+    "name": "Cappadocia",
+    "type": "nature",
+    "country": "Turkey",
+    "tags": ["balloons", "caves", "fairy chimneys", "adventure"]
+  },
+  {
+    "name": "Madagascar",
+    "type": "nature",
+    "country": "Madagascar",
+    "tags": ["wildlife", "lemurs", "unique", "adventure"]
+  },
+  {
+    "name": "Varanasi",
+    "type": "culture",
+    "country": "India",
+    "tags": ["spiritual", "ghats", "culture", "history"]
+  },
+  {
+    "name": "Faroe Islands",
+    "type": "nature",
+    "country": "Denmark",
+    "tags": ["remote", "nature", "hiking", "dramatic"]
+  },
+  {
+    "name": "Socotra Island",
+    "type": "nature",
+    "country": "Yemen",
+    "tags": ["unique", "plants", "remote", "adventure"]
+  },
+  {
+    "name": "Zhangjiajie",
+    "type": "nature",
+    "country": "China",
+    "tags": ["pillars", "avatar", "nature", "hiking"]
+  },
+  {
+    "name": "Bhutan",
+    "type": "culture",
+    "country": "Bhutan",
+    "tags": ["happiness", "mountains", "culture", "spiritual"]
+  },
+  {
+    "name": "Cinque Terre",
+    "type": "beach",
+    "country": "Italy",
+    "tags": ["coastal", "hiking", "villages", "romance"]
+  },
+  {
+    "name": "Kamchatka",
+    "type": "nature",
+    "country": "Russia",
+    "tags": ["volcanoes", "bears", "wilderness", "adventure"]
+  },
+  {
+    "name": "Wadi Rum",
+    "type": "desert",
+    "country": "Jordan",
+    "tags": ["desert", "mars", "camping", "adventure"]
+  },
+  {
+    "name": "Lofoten Islands",
+    "type": "nature",
+    "country": "Norway",
+    "tags": ["northern lights", "fishing", "dramatic", "hiking"]
+  },
+  {
+    "name": "Raja Ampat",
+    "type": "nature",
+    "country": "Indonesia",
+    "tags": ["diving", "marine", "biodiversity", "remote"]
+  },
+  {
+    "name": "Salar de Uyuni",
+    "type": "nature",
+    "country": "Bolivia",
+    "tags": ["salt flats", "mirror", "surreal", "photography"]
+  },
+  {
+    "name": "Somalian Coast",
+    "type": "beach",
+    "country": "Somalia",
+    "tags": ["untouched", "beach", "remote", "adventure"]
+  },
+  {
+    "name": "Azores",
+    "type": "nature",
+    "country": "Portugal",
+    "tags": ["volcanic", "hot springs", "nature", "hiking"]
+  },
+  {
+    "name": "Dolomites",
+    "type": "mountain",
+    "country": "Italy",
+    "tags": ["mountains", "hiking", "ski", "dramatic"]
+  },
+  {
+    "name": "Jeju Island",
+    "type": "nature",
+    "country": "South Korea",
+    "tags": ["volcanic", "nature", "diving", "unique"]
+  },
+  {
+    "name": "Franz Josef Glacier",
+    "type": "nature",
+    "country": "New Zealand",
+    "tags": ["glacier", "hiking", "nature", "adventure"]
+  },
+  {
+    "name": "Socotra",
+    "type": "nature",
+    "country": "Yemen",
+    "tags": ["unique flora", "remote", "biodiversity", "adventure"]
+  },
+  {
+    "name": "Lake Bled",
+    "type": "nature",
+    "country": "Slovenia",
+    "tags": ["lake", "castle", "romance", "nature"]
+  },
+  {
+    "name": "Meteora",
+    "type": "history",
+    "country": "Greece",
+    "tags": ["monasteries", "rocks", "spiritual", "history"]
+  },
+  {
+    "name": "Atacama Desert",
+    "type": "desert",
+    "country": "Chile",
+    "tags": ["desert", "stars", "geysers", "adventure"]
+  },
+  {
+    "name": "Trolltunga",
+    "type": "nature",
+    "country": "Norway",
+    "tags": ["hiking", "cliff", "dramatic", "photography"]
+  },
+  {
+    "name": "Mount Fuji",
+    "type": "mountain",
+    "country": "Japan",
+    "tags": ["sacred", "hiking", "culture", "iconic"]
+  },
+  {
+    "name": "Palawan",
+    "type": "beach",
+    "country": "Philippines",
+    "tags": ["beach", "islands", "diving", "pristine"]
+  },
+  {
+    "name": "Faroe Islands",
+    "type": "nature",
+    "country": "Denmark",
+    "tags": ["grass roof", "dramatic", "hiking", "remote"]
+  },
+  {
+    "name": "Victoria Falls",
+    "type": "nature",
+    "country": "Zambia/Zimbabwe",
+    "tags": ["waterfalls", "adventure", "wildlife", "dramatic"]
+  },
+  {
+    "name": "Svalbard",
+    "type": "nature",
+    "country": "Norway",
+    "tags": ["polar bears", "arctic", "midnight sun", "adventure"]
+  },
+  {
+    "name": "Tulum",
+    "type": "beach",
+    "country": "Mexico",
+    "tags": ["ruins", "beach", "cenotes", "culture"]
+  },
+  {
+    "name": "Milford Sound",
+    "type": "nature",
+    "country": "New Zealand",
+    "tags": ["fjord", "waterfalls", "dramatic", "cruise"]
+  },
+  {
+    "name": "Mount Kilimanjaro",
+    "type": "mountain",
+    "country": "Tanzania",
+    "tags": ["climbing", "africa", "challenge", "adventure"]
+  },
+  {
+    "name": "Phi Phi Islands",
+    "type": "beach",
+    "country": "Thailand",
+    "tags": ["beach", "diving", "islands", "tropical"]
+  },
+  {
+    "name": "Hallstatt",
+    "type": "city",
+    "country": "Austria",
+    "tags": ["lake", "alpine", "picturesque", "culture"]
+  },
+  {
+    "name": "Komodo Island",
+    "type": "nature",
+    "country": "Indonesia",
+    "tags": ["dragons", "diving", "unique", "adventure"]
+  },
+  {
+    "name": "Rotorua",
+    "type": "nature",
+    "country": "New Zealand",
+    "tags": ["geothermal", "maori", "culture", "nature"]
+  },
+  {
+    "name": "Chichen Itza",
+    "type": "history",
+    "country": "Mexico",
+    "tags": ["maya", "pyramid", "history", "culture"]
+  },
+  {
+    "name": "Whistler",
+    "type": "mountain",
+    "country": "Canada",
+    "tags": ["ski", "mountains", "adventure", "resort"]
+  },
+  {
+    "name": "Fernando de Noronha",
+    "type": "beach",
+    "country": "Brazil",
+    "tags": ["pristine", "diving", "dolphins", "remote"]
+  },
+  {
+    "name": "Kangaroo Island",
+    "type": "nature",
+    "country": "Australia",
+    "tags": ["wildlife", "nature", "unique", "adventure"]
+  },
+  {
+    "name": "Kauai",
+    "type": "beach",
+    "country": "USA",
+    "tags": ["garden isle", "hiking", "beach", "nature"]
+  },
+  {
+    "name": "Jaisalmer",
+    "type": "desert",
+    "country": "India",
+    "tags": ["golden city", "desert", "camel", "culture"]
+  },
+  {
+    "name": "Fiordland",
+    "type": "nature",
+    "country": "New Zealand",
+    "tags": ["fjords", "hiking", "wilderness", "dramatic"]
+  }
+]
