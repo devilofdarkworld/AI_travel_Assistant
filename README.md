@@ -13,7 +13,7 @@ An intelligent travel planner built with LangChain, Groq LLaMA 3, and Streamlit.
 
 ---
 
-## 🛠 Tech Stack
+##  Tech Stack
 
 - LangChain
 - Groq (LLaMA 3)
